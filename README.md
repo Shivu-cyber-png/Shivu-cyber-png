@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hi there # Hi 👋, I'm ShivamKashyap
+
+💻 Aspiring Software Developer  
+🌱 Currently learning DSA & Spring Boot  
+🚀 Interested in Backend Development  
+
+---
+
+## 🔧 Skills
+- Java
+- Data Structures & Algorithms
+- Spring Boot (Learning)
+- SQL
+
+---
+
+## 📌 Projects
+- 🚧 Coming Soon...
+
+---
+
+## 📫 Connect with me
+https://www.linkedin.com/in/shivam-kashyap-b9a3a33b9?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+## ⚡ Fun Fact
+I love solving coding problems and building projects 🚀
 
 <!--
 **Shivu-cyber-png/Shivu-cyber-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
