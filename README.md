@@ -1,4 +1,4 @@
-## Hi there # Hi 👋, I'm ShivamKashyap
+## Hi there # Hi 👋, I'm Shivam Kashyap
 
 💻 Aspiring Software Developer  
 🌱 Currently learning DSA & Spring Boot  
